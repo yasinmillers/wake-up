@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy as np
+import numbs as np
 
 # Create some data
 x = np.linspace(0, 2 * np.pi, 100)
